@@ -1,7 +1,7 @@
 {
   "room": "S hudbou žijeme CZ/SK",
-  "author": "Paci",
-  "icon": "https://vgy.me/o3eVuG.png",
+  "author": "Repiboy",
+  "icon": "https://vgy.me/BLlCnx.png",
   "css": "https://rawgit.com/Repiboy/With-live-music/master/WithLiveMusic.css",
   "rules": {
     "allowAutorespond": true,
@@ -38,14 +38,7 @@
     "rdj": "https://vgy.me/easKDp.png",
     "subscriber": null,
     "silversubscriber": "https://vgy.me/qZDKQW.png"
-   }
-  "autocomplete": [],
+  },
   "emotes": {
-    "pls": "https://vgy.me/7F3FHc.png",
-    "fuck": "https://vgy.me/upWRM8.png",
-    "train": "https://vgy.me/Pd8yR7.png",
-    "party": "https://media.giphy.com/media/vg5ttW2Fx35zq/giphy.gif",
-    "copyright": "https://odinia.org/wp-content/uploads/2015/04/1-a-copyright2.gif",
-    "cute": "http://gifrific.com/wp-content/uploads/2012/04/high-five-dog.gif"
   }
 }
