@@ -361,8 +361,8 @@
   background-position: 0px 0px;
 }
 /* pacík :3(CZ:SK) */
-#user-rollover .meta {
-	height: 150px
+#user-rollover [data-cid^="3057259-"] .meta {
+	height: 150px !important
 } 
 /* pacík :3(CZ:SK) */
 .id-3057259 .meta .username:after {
