@@ -361,13 +361,17 @@
   background-position: 0px 0px;
 }
 /* pacík :3(CZ:SK) */
+.id-3057259 .meta .online {
+	height: 150px
+} 
+/* pacík :3(CZ:SK) */
 .id-3057259 .meta .username:after {
 	content: "\A" url('https://vgy.me/EelX1L.png') "Děvka prodejná";
 	white-space: pre;
-	font-size: 10pt;
+	font-size: 13pt;
 	display: block;
 	margin-top: 55px;
-	color: #07a300;
+	color: #8dbd03;
 	font-weight: bold;
 	cursor: text;
 } 
