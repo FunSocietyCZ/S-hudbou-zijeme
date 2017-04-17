@@ -364,6 +364,9 @@
   background-position: 0px 0px;
 } 
 /* pacík :3(CZ:SK) */
+#user-rollover .meta {
+	height: 150px !important;
+} 
 .id-3057259 .meta .username:after {
 	content: "\A" url('https://vgy.me/EelX1L.png') "Děvka prodejná";
 	white-space: pre;
