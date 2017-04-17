@@ -148,8 +148,8 @@
         "!ruleskiplist": 3,
         "!historyguard": 3,
         "!execute": 4,
-        "!run": 5,
-  }
+        "!run": 5
+  },
   "emotes": {
     "pls": "https://vgy.me/7cjaRY.png",
     "fuck": "https://vgy.me/upWRM8.png",
