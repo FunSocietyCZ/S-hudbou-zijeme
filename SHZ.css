@@ -364,7 +364,7 @@
   background-position: 0px 0px;
 } 
 /* pacík :3(CZ:SK) */
-#user-rollover .meta {
+#user-rollover.id-3057259 .meta {
 	height: 150px !important;
 } 
 .id-3057259 .meta .username:after {
@@ -377,10 +377,29 @@
 	font-weight: bold;
 	cursor: text;
 } 
-/* GAME_TIME_ZA_2T_NA_WOW_Z */
-#chat [data-cid^="-"] .bdg {
-  background: url('') !important;
+/* -🎧[Ƙ]ʌɈƘʌЅɀ🎧- */
+#chat [data-cid^="6505739-"] .bdg {
+  background: url('https://vgy.me/XR8ix1.jpg') !important;
   background-position: 0px 0px;
+}
+#user-rollover.id-6505739 .meta {
+	height: 150px !important;
+} 
+.id-6505739 .meta .username:after {
+	content: "\A" url('https://vgy.me/EelX1L.png') "Milovník Nightcore";
+	white-space: pre;
+	font-size: 13pt;
+	display: block;
+	margin-top: 55px;
+	color: #ba0000;
+	font-weight: bold;
+	cursor: text;
+} 
+#user-rollover.id-6505739 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://vgy.me/XR8ix1.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
 }
 /* verda8 */
 #chat [data-cid^="-"] .bdg {
