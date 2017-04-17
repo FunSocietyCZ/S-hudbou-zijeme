@@ -2,7 +2,7 @@
   "room": "S hudbou žijeme CZ/SK",
   "author": "Paci",
   "icon": "https://vgy.me/BLlCnx.png",
-  "css": "https://cdn.rawgit.com/Pacicek/S-hudbou-zijeme/d3913812/SHZ.css",
+  "css": "https://github.com/Pacicek/S-hudbou-zijeme/blob/master/SHZ.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
