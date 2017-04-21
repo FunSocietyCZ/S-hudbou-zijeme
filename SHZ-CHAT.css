@@ -180,7 +180,7 @@
 }
 
 /* friends */
-#friends {
+.friends {
  background: linear-gradient(to top, rgba(1, 145, 255, 0.8) 0,rgba(255, 53, 88, 1) 100%) !important;
  }	
 #friends-button .request-count {
